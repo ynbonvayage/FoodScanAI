@@ -14,22 +14,13 @@ Na Yin · Yu Cao · Fan Zhang
 
 ## Screenshots
 
-The GIF above is compressed, so here are full-resolution frames from the same session.
+Full-resolution frames from the same session (the GIF above is compressed).
 
 <p align="center">
-  <img src="assets/screenshot_soba_zoni.jpg" width="100%" alt="Soba noodle (78%) and zoni (95%) detected, 580 kcal total; protein 22 g, carbs 104 g, fat 7 g">
+  <img src="assets/screenshot_soba_zoni.jpg" width="49%" alt="Soba noodle (78%) and zoni (95%) detected, 580 kcal total; protein 22 g, carbs 104 g, fat 7 g">
+  <img src="assets/screenshot_tempura_curry.jpg" width="49%" alt="Tempura bowl (43%) and cutlet curry (68%) detected, 1240 kcal total; protein 50 g, carbs 152 g, fat 44 g">
 </p>
-<p align="center"><sub><b>Two dishes, 580 kcal.</b> Soba noodle (360 kcal) and zoni (220 kcal), each with a label capsule showing class and confidence, and a calorie badge in the corner of its box.</sub></p>
-
-<p align="center">
-  <img src="assets/screenshot_tempura_curry.jpg" width="100%" alt="Tempura bowl (43%) and cutlet curry (68%) detected, 1240 kcal total; protein 50 g, carbs 152 g, fat 44 g">
-</p>
-<p align="center"><sub><b>Two dishes, 1240 kcal.</b> Tempura bowl (560 kcal) and cutlet curry (680 kcal). The strip below the camera frame shows the meal total on the left and the macro breakdown on the right.</sub></p>
-
-<p align="center">
-  <img src="assets/ui_detail_macros.png" width="360" alt="Close-up of the macro panel: protein 50 g, carbs 152 g, fat 44 g with a donut chart">
-</p>
-<p align="center"><sub>Close-up of the macro panel: grams of protein, carbs and fat, with a donut chart of their proportions.</sub></p>
+<p align="center"><sub><b>Left:</b> soba noodle (360 kcal) and zoni (220 kcal), 580 kcal total. <b>Right:</b> tempura bowl (560 kcal) and cutlet curry (680 kcal), 1240 kcal total. Each box has a class/confidence label and a calorie badge; the strip below shows the meal total and macro breakdown.</sub></p>
 
 ## Overview
 
